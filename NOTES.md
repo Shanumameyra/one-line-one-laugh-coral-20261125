@@ -12,6 +12,7 @@
 - Blind rounds: next round cutoff 2026-11-25T11:00:36Z; final heat takes top 500 on dev board.
 - Account: @rapid-pika-70, wallet 8QhbYm7kNGpZ2FsrtVL1unDtK2KE7pcKcfXRfnZKu4jr (never @romi-prayoga)
 - GitHub repo: Shanumameyra/one-line-one-laugh-coral-20261125
+- Commit: a4fc7be340aebe598f05db5b65b8e911ff2c5f57 (pushed to main; repo About: homepage https://make.fun/bounty/u-coral-404-one-line-one-laugh-22f2c9f3, topic `makefun`)
 - Git identity (repo-local): Shanumameyra / prayogaromi54@gmail.com
 
 ## The line
